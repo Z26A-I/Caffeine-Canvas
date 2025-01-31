@@ -1,7 +1,7 @@
 # Caffeine-Canvas
 A beautifully crafted coffee shop landing page built with HTML and Tailwind CSS. This project showcases a clean, modern, and responsive design optimized for all devices.
 
-🚀** Features**
+🚀 **Features**
 
 **Responsive Navbar** with menu options and a mobile-friendly design.
 
